@@ -12,7 +12,7 @@ Data for the products has been provided in a data file (data.js).
 
 # Screenshots
 
-(/public/HomePage.png)
+(/my-shopping-app/public/HomePage.png)
 
 (/public/ProductList.png)
 
