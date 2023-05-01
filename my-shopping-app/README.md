@@ -14,11 +14,11 @@ Data for the products has been provided in a data file (data.js).
 
 ![Home](/my-shopping-app/public/HomePage.png)
 
-![Products](/public/ProductList.png)
+![Products](/my-shopping-app/public/ProductList.png)
 
-!(/public/ProductDetails.png)
+![ProductInfo](/my-shopping-app/public/ProductDetails.png)
 
-!(/public/Cart.png)
+![Cart](/my-shopping-app/public/Cart.png)
 
 # Getting Started with Create React App
 
