@@ -12,9 +12,9 @@ Data for the products has been provided in a data file (data.js).
 
 # Screenshots
 
-!(/my-shopping-app/public/HomePage.png)
+![Home](/my-shopping-app/public/HomePage.png)
 
-!(/public/ProductList.png)
+![Products](/public/ProductList.png)
 
 !(/public/ProductDetails.png)
 
