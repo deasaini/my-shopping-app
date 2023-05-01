@@ -1,0 +1,69 @@
+.pic {
+	background: url('/src/images/ethnic-boho-style-element-print-hipster-fashion-vector-13884464.jpeg');
+	width: 950px;
+	height: 950px;
+}
+.info {
+	display: flex;
+}
+
+.content {
+	width: 40%;
+	text-align: center;
+	padding: 10px;
+	height: 90vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background-color: #ecf0f1;
+}
+.content h1 {
+	font-size: 60px;
+	line-height: 1em;
+}
+.content p {
+	color: #17252a;
+	font-size: 20px;
+	font-family: Monaco;
+}
+.head {
+	max-width: 70%;
+	line-height: 3em;
+	margin: 0;
+	text-align: left;
+	border-top: 3px solid #f67b50;
+	padding-top: 20px;
+}
+.content button {
+	padding: 10px;
+	color: #fff;
+	background-color: #f67b50;
+}
+.content button:hover {
+	color: #f67b50;
+	background: transparent;
+	border: 2px solid #f67b50;
+}
+
+@media (max-width: 1119px) {
+	.info {
+		display: flex;
+		flex-direction: column;
+		flex-wrap: wrap;
+	}
+	.content,
+	.pic {
+		width: 100%;
+	}
+}
+@media (max-width: 400px) {
+	.content h1 {
+		font-size: 35px;
+		line-height: 3rem;
+		margin-bottom: 1rem;
+	}
+	.content p {
+		line-height: 2rem;
+	}
+}
