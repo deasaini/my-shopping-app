@@ -8,17 +8,17 @@ Data for the products has been provided in a data file (data.js).
 
 # Demo
 
-👉 [Link] (https://644fba8b82766016cc335fc0--phenomenal-tartufo-d1cd04.netlify.app/)
+👉 [Link](https://644fba8b82766016cc335fc0--phenomenal-tartufo-d1cd04.netlify.app/)
 
 # Screenshots
 
-(/my-shopping-app/public/HomePage.png)
+!(/my-shopping-app/public/HomePage.png)
 
-(/public/ProductList.png)
+!(/public/ProductList.png)
 
-(/public/ProductDetails.png)
+!(/public/ProductDetails.png)
 
-(/public/Cart.png)
+!(/public/Cart.png)
 
 # Getting Started with Create React App
 
