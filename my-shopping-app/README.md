@@ -12,13 +12,13 @@ Data for the products has been provided in a data file (data.js).
 
 # Screenshots
 
-![Home page](/public/HomePage.png)
+(/public/HomePage.png)
 
-![ProductList](/public/ProductList.png)
+(/public/ProductList.png)
 
-![ProductDetails](/public/ProductDetails.png)
+(/public/ProductDetails.png)
 
-![Cart](/public/Cart.png)
+(/public/Cart.png)
 
 # Getting Started with Create React App
 
