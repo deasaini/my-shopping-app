@@ -148,6 +148,36 @@ const data = [
 		category: 'Casual',
 		amount: 1,
 		stock: 5
+	},
+	{
+		id: '11',
+		name: 'Hanbok',
+		price: 80,
+		image:
+			'https://cdn.shopify.com/s/files/1/0274/9284/3620/products/custom-mother-of-the-bride-hanbok-white-top-purple-skirt-2_1024x1024.jpg?v=1592559228',
+		backImage:
+			'https://cdn.shopify.com/s/files/1/0274/9284/3620/products/custom-mother-of-the-bride-hanbok-white-top-purple-skirt-4_1024x1024.jpg?v=1592559228',
+
+		description:
+			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+		category: 'Casual',
+		amount: 1,
+		stock: 5
+	},
+	{
+		id: '12',
+		name: 'Filipiniana Barot',
+		price: 70,
+		image:
+			'https://i.etsystatic.com/27866136/r/il/8df76b/3616802621/il_794xN.3616802621_ajcs.jpg',
+		backImage:
+			'https://i.etsystatic.com/27866136/r/il/d95eff/3616799977/il_794xN.3616799977_a31w.jpg',
+
+		description:
+			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, provident. Itaque totam neque, nesciunt consequatur error quasi ipsam accusamus facere!Lorem ipsum dolor sit amet consectetur adipisicing elit.',
+		category: 'Casual',
+		amount: 1,
+		stock: 5
 	}
 ];
 export default data;
