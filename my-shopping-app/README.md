@@ -8,7 +8,7 @@ Data for the products has been provided in a data file (data.js).
 
 # Demo
 
-👉 [Link](https://phenomenal-tartufo-d1cd04.netlify.app/)
+👉 [Link](https://64519e458eb7a00d3c9e946f--phenomenal-tartufo-d1cd04.netlify.app/)
 
 # Screenshots
 
