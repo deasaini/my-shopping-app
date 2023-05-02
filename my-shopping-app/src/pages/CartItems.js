@@ -22,10 +22,22 @@ const CartItems = () => {
 					>
 						Your cart is empty.
 					</h2>
-					<div className="shop-now">
+					<div className="shop-now" style={{ position: 'relative' }}>
 						<Link to="/products" className="link-btn">
 							<Stack spacing={2} direction="row">
-								<Button onClick={clear} variant="Shop Now">
+								<Button
+									onClick={clear}
+									variant="Shop Now"
+									style={{
+										padding: '10px',
+										color: '#fff',
+										backgroundColor: '#f67b50',
+										borderRadius: '10px',
+										position: 'absolute',
+										marginLeft: '40px',
+										justifycontent: 'center'
+									}}
+								>
 									Shop Now
 								</Button>
 							</Stack>

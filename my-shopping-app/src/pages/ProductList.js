@@ -8,15 +8,15 @@ const ProductList = () => {
 	const { products } = useProductsContext();
 	return (
 		<>
-			<div className="cocktails-center">
+			<div className="card-center">
 				{products.map((product) => {
 					const { id, image, name, price } = product;
 					return (
-						<article key={id} className="cocktail">
+						<article key={id} className="card">
 							<div className="img-container">
 								<img src={image} alt={name} />
 							</div>
-							<div className="cocktail-footer">
+							<div className="card-footer">
 								<div className="product">
 									<h4>{name}</h4>
 									<h4 className="price">${price}</h4>
