@@ -34,7 +34,7 @@ const CartItems = () => {
 										backgroundColor: '#f67b50',
 										borderRadius: '10px',
 										position: 'absolute',
-										marginLeft: '40px',
+										marginLeft: '700px',
 										justifycontent: 'center'
 									}}
 								>

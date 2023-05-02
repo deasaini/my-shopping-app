@@ -23,7 +23,7 @@ test('Component Amount Buttons are of type button', () => {
 		render(<AmountButtons />);
 		// eslint-disable-next-line testing-library/await-async-query
 		const isButton = screen.findByRole('button');
-		expect(isButton).toEqual('False');
+		expect(isButton).toEqual('True');
 	};
 });
 
